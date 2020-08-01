@@ -47,10 +47,14 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ChrisBarnes7404) -->
 
-### Blog posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Waka Time
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END --> 
+
+# Waka Time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
