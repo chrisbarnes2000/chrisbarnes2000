@@ -5,13 +5,13 @@
 ## I am a Data Scientist & Backend Web Deveoper
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBarnes7404&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
 
 <!-- ![I am a Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 Christopher helps others stay accountable in turn keeping himself more accountable. He is the middle of 5 siblings and has traveled to 34 of the 50 states. His inspiration for computers started when members of his family developed symptoms of Alzheimer's and Dementia, around 2010. In addition, he has continued to increase his interest in 2014 Disney's Big Hero 6 aired, in which Baymax; A personal health care companion appeared. This along with his involvement in his high school's robotics club team [2927](https://frc-events.firstinspires.org/team/2927)., through First Robotics Competitions [(FRC)](https://www.firstinspires.org/robotics/frc), has brought him to where he is today.
 
 Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Flask, Django, Go & Node.js
@@ -37,13 +37,11 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 # StackOverflow Activity [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13986242)
 <!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END --> 
+<!-- STACKOVERFLOW:END -->
 
 # Waka Time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
 
 <!-- ### Readme inspiration from
 
@@ -55,8 +53,15 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 <br>
 
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamkrishnar&repo=blog-post-workflow" />
+](https://github.com/gautamkrishnar/blog-post-workflow)
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=anmol098&repo=waka-readme-stats" />
+](https://github.com/anmol098/waka-readme-stats)
+
+<br>
+
 [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinal&repo=Profile-Readme-WakaTime" />
 ](https://github.com/avinal/Profile-Readme-WakaTime)
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=gautamkrishnar&repo=blog-post-workflow" />
-](https://github.com/gautamkrishnar/blog-post-workflow) -->
+-->
