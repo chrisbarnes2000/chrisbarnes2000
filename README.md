@@ -4,9 +4,7 @@
 
 <!-- ![I am a Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-<!-- Christopher is a computer science student at Make School following the concentrations Data Science & Back End Web Development. -->
-
-I enjoy working in the STEM fields and had a blast as a [FRC](https://www.firstinspires.org/robotics/frc) programmer from 2015-2019 on team [2927](https://frc-events.firstinspires.org/team/2927).
+Christopher helps others stay accountable in turn keeping himself more accountable. He is the middle of 5 siblings and has traveled to 34 of the 50 states. His inspiration for computers started when members of his family developed symptoms of Alzheimer's and Dementia, around 2010. In addition, he has continued to increase his interest in 2014 Disney's Big Hero 6 aired, in which Baymax; A personal health care companion appeared. This along with his involvement in his high school's robotics club team [2927](https://frc-events.firstinspires.org/team/2927)., through First Robotics Competitions [(FRC)](https://www.firstinspires.org/robotics/frc), has brought him to where he is today.
 
 Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
@@ -24,7 +22,6 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBarnes7404&show_icons=true&hide_title=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](chrisbarnes.news)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisbarnes2000/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/christopher-barnes)
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dragon_dominant/) -->
