@@ -1,8 +1,12 @@
 # <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> Hi there, I'm Christopher Barnes
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisbarnes2000/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dragon_dominant/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Dragon_Dominant)
 
 ## I am a Data Scientist & Backend Web Deveoper
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBarnes7404&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
 
 <!-- ![I am a Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
@@ -21,13 +25,6 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 - 😄 Pronouns: He/Him, They/Them
 <!-- - ⚡ Fun fact: -  -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisbarnes2000/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/christopher-barnes)
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dragon_dominant/) -->
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Dragon_Dominant) -->
-
 ---
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ChrisBarnes7404) -->
@@ -39,13 +36,15 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 - [ASSISTIVE TOOLS](https://medium.com/@christopher.barnes/assistive-tools-5910f4623b15?source=rss-1448bbd2ea82------2)
 <!-- BLOG-POST-LIST:END -->
 
-# StackOverflow Activity
+# StackOverflow Activity [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/christopher-barnes)
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END --> 
 
 # Waka Time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
 
 <!-- ### Readme inspiration from
 
