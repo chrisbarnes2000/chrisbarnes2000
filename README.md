@@ -2,6 +2,8 @@
 
 ## I am a Data Scientist & Backend Web Deveoper
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBarnes7404&show_icons=true&hide_title=true)
+
 <!-- ![I am a Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 Christopher helps others stay accountable in turn keeping himself more accountable. He is the middle of 5 siblings and has traveled to 34 of the 50 states. His inspiration for computers started when members of his family developed symptoms of Alzheimer's and Dementia, around 2010. In addition, he has continued to increase his interest in 2014 Disney's Big Hero 6 aired, in which Baymax; A personal health care companion appeared. This along with his involvement in his high school's robotics club team [2927](https://frc-events.firstinspires.org/team/2927)., through First Robotics Competitions [(FRC)](https://www.firstinspires.org/robotics/frc), has brought him to where he is today.
@@ -20,7 +22,6 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 <!-- - ⚡ Fun fact: -  -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBarnes7404&show_icons=true&hide_title=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisbarnes2000/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/christopher-barnes)
@@ -31,17 +32,20 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ChrisBarnes7404) -->
 
-### Blog posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [A Day At Tokepoint](https://medium.com/@christopher.barnes/a-day-at-tokepoint-f8e7b2aec53d?source=rss-1448bbd2ea82------2)
 - [Free Will, Vise or Virtue?](https://medium.com/@christopher.barnes/free-will-vise-or-virtue-ca3b54a37d9?source=rss-1448bbd2ea82------2)
 - [ASSISTIVE TOOLS](https://medium.com/@christopher.barnes/assistive-tools-5910f4623b15?source=rss-1448bbd2ea82------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Waka Time
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END --> 
+
+# Waka Time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 <!-- ### Readme inspiration from
 
@@ -58,19 +62,3 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=gautamkrishnar&repo=blog-post-workflow" />
 ](https://github.com/gautamkrishnar/blog-post-workflow) -->
-
----
-
-<!-- ![Profile views](https://gpvc.arturio.dev/ChrisBarnes7404) -->
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-# StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END --> 
-
-# Waka Time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
