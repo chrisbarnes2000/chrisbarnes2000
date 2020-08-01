@@ -11,6 +11,7 @@
 Christopher helps others stay accountable in turn keeping himself more accountable. He is the middle of 5 siblings and has traveled to 34 of the 50 states. His inspiration for computers started when members of his family developed symptoms of Alzheimer's and Dementia, around 2010. In addition, he has continued to increase his interest in 2014 Disney's Big Hero 6 aired, in which Baymax; A personal health care companion appeared. This along with his involvement in his high school's robotics club team [2927](https://frc-events.firstinspires.org/team/2927)., through First Robotics Competitions [(FRC)](https://www.firstinspires.org/robotics/frc), has brought him to where he is today.
 
 Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
 
 - 🔭 I’m currently working on this page.
