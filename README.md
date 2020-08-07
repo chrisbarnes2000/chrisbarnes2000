@@ -68,9 +68,9 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 ```text
 Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Tuesday      61 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Tuesday      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
 Wednesday    104 commits    ███████░░░░░░░░░░░░░░░░░░   29.05% 
-Thursday     68 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
+Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
 Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
 Saturday     24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
 Sunday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5%
