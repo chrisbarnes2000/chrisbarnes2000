@@ -41,11 +41,11 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 # Waka Time
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 526 Contributions in year 2020
+> 🏆 530 Contributions in year 2020
  > 
 > 📦 Used 0 Bytes in GitHub's Storage 
  > 
@@ -70,9 +70,9 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
 Tuesday      41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
 Wednesday    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
-Thursday     72 commits     █████░░░░░░░░░░░░░░░░░░░░   20.11% 
+Thursday     70 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
 Friday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Saturday     40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
+Saturday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
 Sunday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5%
 
 ```
