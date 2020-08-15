@@ -45,7 +45,7 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 **🐱 My GitHub Data** 
 
-> 🏆 622 Contributions in year 2020
+> 🏆 625 Contributions in year 2020
  > 
 > 📦 Used 0 Bytes in GitHub's Storage 
  > 
@@ -84,16 +84,20 @@ Sunday       82 commits     █████░░░░░░░░░░░░�
 ⌚︎ Timezone: America/Los_Angeles
 
 💬 Languages: 
-No Activity tracked this Week
+Git Config               2 mins              ████████████████████░░░░░   81.46% 
+HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity tracked this Week
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity tracked this Week
+Robotics Website         2 mins              █████████████████████████   100.0%
 
 💻 Operating Systems: 
-No Activity tracked this Week
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
