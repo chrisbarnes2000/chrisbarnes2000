@@ -43,17 +43,17 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 625 Contributions in 2020
+> 🏆 625 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 46 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
 **I'm an Early 🐤** 
 
@@ -64,7 +64,7 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56%
 
 ```
-📅 **I'm Most Productive on Sundays** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
@@ -78,25 +78,25 @@ Sunday       82 commits     █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Los_Angeles
+⌚︎ Time zone: America/Los_Angeles
 
-💬 Languages: 
+💬 Programming Languages: 
 Git Config               2 mins              ████████████████████░░░░░   81.46% 
 HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
 PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
 Robotics Website         2 mins              █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      2 mins              █████████████████████████   100.0%
 
 ```
