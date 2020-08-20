@@ -45,15 +45,15 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 **🐱 My Github Data** 
 
-> 🏆 625 Contributions in the year 2020
+> 🏆 625 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public repositories
+> 📜 46 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -78,10 +78,10 @@ Sunday       82 commits     █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: America/Los_Angeles
+⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
 Python                   54 mins             ███████████░░░░░░░░░░░░░░   46.19% 
@@ -90,7 +90,7 @@ Other                    15 mins             ███░░░░░░░░�
 Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
 HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  1 hr 57 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
