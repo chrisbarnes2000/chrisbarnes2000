@@ -45,7 +45,7 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
 
 **🐱 My Github Data** 
 
-> 🏆 638 Contributions in the Year 2020
+> 🏆 639 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
