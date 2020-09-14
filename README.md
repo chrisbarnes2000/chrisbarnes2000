@@ -51,7 +51,7 @@ Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories
+> 📜 48 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
