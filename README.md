@@ -1,48 +1,59 @@
-# <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> Hi there, I'm Christopher Barnes [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrisbarnes2000/)
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dragon_dominant/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Dragon_Dominant) -->
+# Hey <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">
 
-## I am a Data Scientist & Backend Web Deveoper
+## Would You Link To Lean More About Christopher Barnes
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBarnes7404&show_icons=true&hide_title=true)
+I'm a Backend Developer & Data Scientist
 
-<!-- ![I am a Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-
-Christopher helps others stay accountable in turn keeping himself more accountable. He is the middle of 5 siblings and has traveled to 34 of the 50 states. His inspiration for computers started when members of his family developed symptoms of Alzheimer's and Dementia, around 2010. In addition, he has continued to increase his interest in 2014 Disney's Big Hero 6 aired, in which Baymax; A personal health care companion appeared. This along with his involvement in his high school's robotics club team [2927](https://frc-events.firstinspires.org/team/2927)., through First Robotics Competitions [(FRC)](https://www.firstinspires.org/robotics/frc), has brought him to where he is today.
-
-Skills: JAVA / JS / HTML / CSS / PYTHON / FLASK / DJANGO / NODE
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
-
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Flask, Django, Go & Node.js
-<!-- - 👯 I’m looking to collaborate on -  -->
-<!-- - 🤔 I’m looking for help with -  -->
+- 📫 How to reach me: chris.barnes.2000@me.com
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/chrisbarnes2000/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/dragon_dominant/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/Dragon_Dominant)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='25'>](https://stackoverflow.com/users/13986242)
+- 😄 Pronouns: He/Him, They/Them
 - 💬 Ask me about my projects:
 
-    37Borughs, myCity & my DataScience project/Findings
-- 📫 How to reach me: chris.barnes.2000@me.com
-- 😄 Pronouns: He/Him, They/Them
+  [37Borughs](https://github.com/alannanoguchi/37_Boroughs),
+  [Minerva Facilities](https://github.com/ChrisBarnes7404/React-WebBased-MVP),
+  [myCity](https://github.com/ChrisBarnes7404/myCity) & my
+  [DataScience project/Findings](https://github.com/ChrisBarnes7404?tab=repositories&q=DS)
+
+- 🔭 I’m currently working on:
+  Minerva Facilities,
+  [my Personal Website](https://chrisbarnes.news), &
+  [MakeBadges](https://maker-a-team.github.io/make-badges/#/)
+- 🌱 I’m currently learning:
+  [React](https://reactjs.org/),
+  [React-Native](https://reactnative.dev/),
+  [Expo](https://expo.io/),
+  [Keras & other deep learning technices](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning)
+<!-- - 👯 I’m looking to collaborate on -  -->
+<!-- - 🤔 I’m looking for help with -  -->
 <!-- - ⚡ Fun fact: -  -->
 
 ---
 
 <!-- ![Profile views](https://gpvc.arturio.dev/ChrisBarnes7404) -->
 
-# Blog posts
+<!-- ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Day At Tokepoint](https://medium.com/@christopher.barnes/a-day-at-tokepoint-f8e7b2aec53d?source=rss-1448bbd2ea82------2)
-- [Free Will, Vise or Virtue?](https://medium.com/@christopher.barnes/free-will-vise-or-virtue-ca3b54a37d9?source=rss-1448bbd2ea82------2)
-- [ASSISTIVE TOOLS](https://medium.com/@christopher.barnes/assistive-tools-5910f4623b15?source=rss-1448bbd2ea82------2)
-<!-- BLOG-POST-LIST:END -->
 
-# StackOverflow Activity [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13986242)
+<!-- BLOG-POST-LIST:END ->
+ -->
+
+<!-- ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:END ->
+ -->
 
-# Waka Time
+## Waka Time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+## Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBarnes7404&show_icons=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBarnes7404&layout=compact)
 
 <!-- ### Readme inspiration from
 
