@@ -152,7 +152,6 @@ Jupyter Notebook         6 repos             ██░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [A Day At Tokepoint](https://medium.com/@chrisbarnes2000/a-day-at-tokepoint-f8e7b2aec53d?source=rss-1448bbd2ea82------2)
 - [Free Will, Vise or Virtue?](https://medium.com/@chrisbarnes2000/free-will-vise-or-virtue-ca3b54a37d9?source=rss-1448bbd2ea82------2)
-- [ASSISTIVE TOOLS](https://medium.com/@chrisbarnes2000/assistive-tools-5910f4623b15?source=rss-1448bbd2ea82------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## StackOverflow Activity
