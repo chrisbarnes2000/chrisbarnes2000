@@ -2,12 +2,12 @@
 <h2 align="center">I'm a Backend Developer & Data Scientist</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chrisbarnes2000&label=Profile%20views&color=0e75b6&style=flat" alt="chrisbarnes2000 profile view couunt" />
+  <img src="https://komarev.com/ghpvc/?username=chrisbarnes2000&label=Profile%20views&color=0e75b6&style=flat" alt="chrisbarnes2000 Profile View Couunt" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisbarnes2000&" alt="chrisbarnes2000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisbarnes2000" alt="chrisbarnes2000 Streak Status" />
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chrisbarnes2000" alt="chrisbarnes2000 profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=chrisbarnes2000" alt="chrisbarnes2000 Profile Trophies" />
   </a>
 </p>
 
@@ -75,13 +75,14 @@
   <a href="https://discord.gg/GAkTk4M" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="GAkTk4M" height="30" width="40" style="background: aqua;"/>
   </a>
-</p>
-
-<p>
   <a href="https://www.buymeacoffee.com/chrisbarnes2000">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrisbarnes2000" />
   </a>
 </p>
+
+<br>
+<hr>
+<br>
 
 ## Waka Time
 
